@@ -33,3 +33,4 @@ google.com, pub-2067800044730756, RESELLER, f08c47fec0942fa0
 ad-generation.jp,12474,RESELLER,7f4ea9029ac04e53
 yahoo.com,55029,RESELLER,e1a5b5b6e3255540
 i-mobile.co.jp,18763 , DIRECT
+pubmatic.com,156704,DIRECT,5d62403b186f2ace
